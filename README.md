@@ -1,0 +1,2 @@
+# GeoAi
+Geo AI projects
