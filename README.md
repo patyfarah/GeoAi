@@ -3,6 +3,7 @@ The AI-project-2025 aim to test the Sample4GEO platform.
 You can download the notebook and run it directly in google colab.
 The data and Code will be installed from their host location.
 You only need to run the code in sequence.
+We are ony testing the code with University-1652 dataset
 After all is run:
 1- You can remove the zip files
 2- You need to rename the University- folder under Sample4Geo/data to U1652
